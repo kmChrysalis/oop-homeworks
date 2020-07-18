@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ex1_sol/ex1_sol.iml" filepath="$PROJECT_DIR$/ex1_sol/ex1_sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex2_sol/ex2_sol.iml" filepath="$PROJECT_DIR$/ex2_sol/ex2_sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3_sol/ex3_sol.iml" filepath="$PROJECT_DIR$/ex3_sol/ex3_sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4_sol/ex4_sol.iml" filepath="$PROJECT_DIR$/ex4_sol/ex4_sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex5_sol/ex5_sol.iml" filepath="$PROJECT_DIR$/ex5_sol/ex5_sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex6_sol/ex6_sol.iml" filepath="$PROJECT_DIR$/ex6_sol/ex6_sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-homeworks.iml" filepath="$PROJECT_DIR$/oop-homeworks.iml" />
+    </modules>
+  </component>
+</project>
